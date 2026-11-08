@@ -78,8 +78,6 @@ OOP builds well-structured programs using four pillars:
 
 ## 📝 Blog Posts
 
-Two blog posts explain the trickiest ideas in simple language. They are placed in the `blogs/` folder.
-
 | Blog                                       | Summary                                                                        | Link                                    |
 | ------------------------------------------ | ------------------------------------------------------------------------------ | --------------------------------------- |
 | ⚖️ **Type vs Interface in TypeScript**     | How `type` and `interface` are alike, how they differ, and when to choose each | [Read here](./type-vs-interface.md)     |
